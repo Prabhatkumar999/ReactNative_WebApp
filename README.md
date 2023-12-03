@@ -9,7 +9,7 @@
 ### Install React Native CLI Globally
 > Run these command in Command Prompt or Terminal depends on OS
 - npm install -g react-native-cli
-> if it's does not work beacuse of node.js version then run command in the path of project folder
+> if it's does't work beacuse of node.js version then run command in the path of project folder
 - npm install -g react-native-cli
 > if still it's does not work again then run these command in local Path of project folder
 - npm install react-native-cli --save-dev

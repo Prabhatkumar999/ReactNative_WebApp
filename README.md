@@ -2,7 +2,9 @@
 ## Getting Started
 > *These instructions will help you set up and run the project on your local machine.*
 ### Prerequisites
+> Install Node.js in your Machine
 - [Node.js](https://nodejs.org/)
+> You can go manually by using these link that is given below (ReactNative CLI)
 - - [React Native CLI](https://reactnative.dev/docs/environment-setup)
 ### Install React Native CLI Globally
 > Run these command in Command Prompt or Terminal depends on OS

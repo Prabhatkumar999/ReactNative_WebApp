@@ -11,7 +11,7 @@
 - npm install -g react-native-cli
 > if it does  not work beacuse of node.js version then run command in the path of project folder
 - npm install -g react-native-cli
-> if it does not work again then run these command in local Path of project folder
+> if still it's does not work again then run these command in local Path of project folder
 - npm install react-native-cli --save-dev
 ### For Installing dependencies
 > Install all dependencies in a path of project folder
